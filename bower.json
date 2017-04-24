@@ -1,0 +1,28 @@
+{
+  "name": "file-upload",
+  "homepage": "http://shleyko.ru/",
+  "authors": [
+    "Alexandr Shleyko <dusty@yandex-team.ru>"
+  ],
+  "description": "file upload interface",
+  "main": "file-upload.html",
+  "keywords": [
+    "interface",
+    "file",
+    "upload"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "bootstrap": "^3.3.7",
+    "bootstrap-datepicker": "^1.6.4",
+    "font-awesome": "^4.7.0"
+  }
+}
